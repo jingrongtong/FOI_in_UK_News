@@ -1,0 +1,3 @@
+# FOI_in_UK_News
+
+This project examines FOI coverage by UK national newspapers between 2005 and 2023. The findings will be published by Journalism Studies in an article "Serving the public interest? A computational analysis of the topics of UK national newspaper coverage using Freedom of Information (FOI) requests between 2005 and 2023 (Journalism Studies, 2025)".  In this repository, you can find the main code used for the LDA analysis, n-gram analysis, mean coherence scores calculation, heatmap visualisaiton, and topic correlation network visualisation. There are also key numerical and graph results and document feature matrices such as 32 topic distribution matrix generated from the computational analysis. 
